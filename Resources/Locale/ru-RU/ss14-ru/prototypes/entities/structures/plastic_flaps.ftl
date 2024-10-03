@@ -1,5 +1,3 @@
-ent-PlasticFlapsBase = { ent-BaseStructureDynamic }
-    .desc = { ent-BaseStructureDynamic.desc }
 ent-PlasticFlapsClear = пластиковые шторки
     .desc = Тяжёлые пластиковые шторки. Сквозь них не пройти. Ни за что.
     .suffix = Прозрачные
